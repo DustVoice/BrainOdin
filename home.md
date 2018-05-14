@@ -34,8 +34,9 @@ function add(x, y) {
 }
 ```
 
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 _© David Holland, April 2018._
