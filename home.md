@@ -8,7 +8,7 @@ This collection of information and knowledge is supposed to help and being used 
 It is also supposed to be extended, whenever a new problem is discovered.
 Whether there was some Google involved, or the problem was solved by the tech himself, any information should be added here.
 With this ever growing database, it should reduce support/research time as well as nerves while dealing with some of the more tedious problems.
-
+[Asio 4 All V 2 Instruction Manual](/uploads/asio-4-all-v-2-instruction-manual.pdf "Asio 4 All V 2 Instruction Manual")
 <span style="color:blue">Test</span>
 
 ```python
