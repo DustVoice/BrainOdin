@@ -1,6 +1,6 @@
 ![Brainfuq Big](/uploads/brainfuq-big.png "Brainfuq Big")
-<!-- TITLE: Home -->
-<!-- SUBTITLE: BrainOdin - Feel the power of unlimited knowledge! -->
+<!-- TITLE: BrainOdin -->
+<!-- SUBTITLE: Feel the power of unlimited knowledge! -->
 
 # BrainFuq Support Knowledge Base - Odin
 
