@@ -14,6 +14,11 @@ With this ever growing database, it should reduce support/research time as well 
 ```python
 elif:
 	Test
+	test\Test
+	Test\nTest
+	Test/nTest
+	Test<br/>Test
+	Test  Test
 ```
 
 
