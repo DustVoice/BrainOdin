@@ -21,6 +21,10 @@ elif:
 	Test  Test
 ```
 
-
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y
+}
+```
 
 _© David Holland, April 2018._
