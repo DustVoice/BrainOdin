@@ -27,4 +27,13 @@ function add(x, y) {
 }
 ```
 
+
+```javascript
+function add(x, y) {
+  return x + y
+}
+```
+
+
+
 _© David Holland, April 2018._
